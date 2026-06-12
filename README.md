@@ -91,7 +91,8 @@ index=ai_soc
 ├── ai_soc_architecture_diagram.png
 ├── log_stream.py
 ├── dashboard/
-│   └── ai_soc_dashboard.json
+│   └── AI-Powered-Cyber-Attack-Comman-Center.json
+│   └── AI-Powered Cyber Attack Command Center.pdf
 ├── DEMO_SCRIPT.md
 ```
 ## Quick Start
