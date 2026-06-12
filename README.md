@@ -1,8 +1,7 @@
-# AI-Powered Cyber Attack Command Center
+# AI-Powered Cyber Attack Command Center - Splunk Agentic Ops Hackathon 2026
 
 An AI-driven Security Operations Center (SOC) built on Splunk that detects, explains, and responds to cyber attacks in real time, turning raw security events into autonomous, auditable defense actions.
 
-**Splunk Agentic Ops Hackathon 2026**
 ---
 
 ## The Problem
