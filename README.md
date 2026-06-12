@@ -1,15 +1,15 @@
 # AI-Powered Cyber Attack Command Center
 
-An AI-driven Security Operations Center (SOC) built on Splunk that detects, explains, and responds to cyber attacks in real time — turning raw security events into autonomous, auditable defense actions.
+An AI-driven Security Operations Center (SOC) built on Splunk that detects, explains, and responds to cyber attacks in real time, turning raw security events into autonomous, auditable defense actions.
 
 **Splunk Agentic Ops Hackathon 2026**
 ---
 
 ## The Problem
 
-Traditional SOCs can detect threats, but they still rely heavily on humans to respond. An analyst has to see an alert, investigate it, and then take action — often minutes or even hours after an attack begins.
+Traditional SOCs can detect threats, but they still rely heavily on humans to respond. An analyst has to see an alert, investigate it, and then take action, often minutes or even hours after an attack begins.
 
-Attackers operate in seconds. Defenders need systems that can act just as fast — while still keeping decisions transparent enough for humans to trust and audit.
+Attackers operate in seconds. Defenders need systems that can act just as fast, while still keeping decisions transparent enough for humans to trust and audit.
 
 ---
 
@@ -122,7 +122,7 @@ python -u log_stream.py >> live_logs.txt
 ```bash
 python3 -u log_stream.py >> live_logs.txt
 ```
-Leave this running — it continuously generates realistic security events and attack patterns.
+Leave this running: it continuously generates realistic security events and attack patterns.
 
 ---
 
