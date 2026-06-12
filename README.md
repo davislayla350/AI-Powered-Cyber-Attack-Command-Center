@@ -84,7 +84,7 @@ index=ai_soc
                 location=="IN",78.9629, location=="DE",10.4515, true(), null())
 | where isnotnull(lat) AND isnotnull(lon)
 | geostats count latfield=lat longfield=lon
-
+```
 ---
 ## Repository Contents
 .
