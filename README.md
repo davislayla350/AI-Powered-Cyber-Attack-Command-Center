@@ -87,14 +87,14 @@ index=ai_soc
 ```
 ---
 ## Repository Contents
-.
+```
 ├── README.md
 ├── ai_soc_architecture_diagram.png
 ├── log_stream.py
 ├── dashboard/
 │   └── ai_soc_dashboard.json
 ├── DEMO_SCRIPT.md
-
+```
 ## Quick Start
 
 ### Prerequisites
@@ -117,10 +117,11 @@ In Splunk Web:
 #### Windows (PowerShell)
 ```bash
 python -u log_stream.py >> live_logs.txt
+```
 #### macOS/Linux
 ```bash
 python3 -u log_stream.py >> live_logs.txt
-
+```
 Leave this running — it continuously generates realistic security events and attack patterns.
 
 ---
@@ -148,4 +149,4 @@ Then open the **source editor** and paste:
 
 ```bash
 dashboard/ai_soc_dashboard.json
-
+```
